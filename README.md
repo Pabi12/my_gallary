@@ -20,4 +20,4 @@ Welcome to our Gallery Website! This website is designed to showcase various ima
 
 ```bash
 git clone https://github.com/Pabi12/my_gallary.git
-[website Link](https://my-gallary-eta.vercel.app/)
+[WEBSITE LINK](https://my-gallary-cssazifj1-pabitras-projects-29bfa995.vercel.app/)
